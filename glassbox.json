@@ -1,0 +1,171 @@
+{
+  "slug": "pressureclear",
+  "kind": "principle",
+  "box": 22,
+  "date": "2026-09-27",
+  "title": "Pressure",
+  "question": "What is pressure?",
+  "principle": {
+    "type": "concept",
+    "name": "Pressure",
+    "formula": "P = F ÷ A",
+    "formulaNote": "pressure = force ÷ area, in pascals (1 Pa = 1 N/m²). In a liquid or gas at rest it also grows with depth: P = ρ g h.",
+    "idea": "Pressure is how concentrated a push is: the same force squeezed onto a small area presses much harder than when it is spread over a big one. Air and water press too, harder the deeper you go.",
+    "discovered": "1643 · Evangelista Torricelli's barometer; 1648 · Pascal's Puy de Dôme",
+    "art": "tyre",
+    "appliesTo": [
+      "cycleclear",
+      "carclear",
+      "roclear",
+      "waterheaterclear",
+      "acclear",
+      "heartclear",
+      "earclear"
+    ],
+    "examples": [
+      {
+        "title": "Stiletto vs elephant",
+        "text": "A 60 kg person on a 1 cm² heel presses the floor at about 5.9 MPa. A 4,000 kg elephant on four broad feet manages only about 80 kPa, some 75 times less."
+      },
+      {
+        "title": "A car tyre’s contact patch",
+        "text": "Each wheel of a family car carries about 3.3 kN. At 2.2 bar the tyre flattens until the patch touching the road is about 150 cm², palm-sized: load ÷ area ≈ tyre pressure.",
+        "box": "carclear"
+      },
+      {
+        "title": "Hard bicycle tyres",
+        "text": "A road bike’s narrow tyres run at 5–7 bar, so each touches the road with only about 9–11 cm². That small, firm patch is why they roll so easily.",
+        "box": "cycleclear"
+      },
+      {
+        "title": "Tank pressure and the RO pump",
+        "text": "A rooftop tank 10 m up gives a tap only about 1 bar (P = ρgh). An RO membrane needs about 5 bar, so the purifier carries its own booster pump.",
+        "box": "roclear"
+      },
+      {
+        "title": "The geyser’s safety valve",
+        "text": "Heated water expands in a sealed tank and the pressure climbs fast. A relief valve lets a little out at 6–8 bar, far above anything a rooftop tank can supply.",
+        "box": "waterheaterclear"
+      },
+      {
+        "title": "Blood pressure at heart height",
+        "text": "120/80 mmHg is the pressure at heart level. Blood is a liquid column, so a cuff on the ankle reads almost 100 mmHg more; that’s why the arm is rested at heart height.",
+        "box": "heartclear"
+      },
+      {
+        "title": "Popping ears",
+        "text": "Dive 2 m or fly down to land and the pressure outside the eardrum changes while the middle ear stays behind. Swallowing lets air through the Eustachian tube to even it out.",
+        "box": "earclear"
+      },
+      {
+        "title": "Boiling on demand in an AC",
+        "text": "Water boils at 100 °C at 1 atm, 88 °C in Leh and 120 °C in a pressure cooker. An AC uses the same rule: its refrigerant boils cold at low pressure and condenses hot at high pressure.",
+        "box": "acclear"
+      },
+      {
+        "title": "Magdeburg hemispheres",
+        "text": "In 1654 von Guericke pumped the air out of two copper half-spheres. The outside air pushed them together with about 20 kN, more than teams of horses could pull apart."
+      },
+      {
+        "title": "The bottom of the Mariana Trench",
+        "text": "Nearly 11 km down the sea presses at about 1,086 bar, over a tonne on every square centimetre. Trieste reached it in 1960 inside a steel ball 12.7 cm thick."
+      }
+    ]
+  },
+  "hook": "Why does a stiletto dent a floor an elephant wouldn’t, why is a dam thickest at the bottom, and why does dal cook faster under a whistle? Squash sand, cut a tomato, lie on nails, fill a dam, pump out Magdeburg’s hemispheres and dive the Mariana Trench.",
+  "thumbText": "PRESSURE",
+  "field": "physics",
+  "minutes": 12,
+  "tags": [
+    "pressure",
+    "pascal",
+    "P = F/A",
+    "hydrostatic pressure",
+    "atmospheric pressure",
+    "barometer",
+    "gauge pressure",
+    "absolute pressure",
+    "tyre pressure",
+    "blood pressure",
+    "pressure cooker",
+    "Magdeburg hemispheres",
+    "Mariana Trench",
+    "physics",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Force on an area",
+      "text": "Pressure is force divided by area, P = F ÷ A, measured in pascals: one newton on one square metre. Press a plate into sand and halve its area: the pressure doubles and it sinks deeper. A brick on its end presses three times harder than lying flat, and a stiletto heel beats an elephant by about 75 times. The units board shows every pressure in Pa, kPa, bar, atm, psi and mmHg."
+    },
+    {
+      "title": "Sharp and wide",
+      "text": "A sharp knife’s edge turns 10 N into megapascals and splits a tomato; a blunt one squashes it. Snowshoes, a bed of a thousand nails and fat low-pressure tractor tyres spread weight to keep pressure low. A tyre’s contact patch is about load ÷ pressure: palm-sized for a car at 2.2 bar, stamp-sized for a bike at 6 bar."
+    },
+    {
+      "title": "Deeper means harder",
+      "text": "Under a liquid, P = ρ g h: every 10 m of water adds about 1 bar. A rooftop tank gives the ground floor about 1 bar, far short of an RO pump’s 5. Bhakra Dam’s 226 m of water press at 2.2 MPa at the base. Unequalised ears hurt a metre or two down, and blood pressure is highest at your ankles."
+    },
+    {
+      "title": "An ocean of air",
+      "text": "Air presses at about 101 kPa at sea level. Pump air out of Magdeburg hemispheres and 20 kN clamps them. A straw lifts juice by lowering the pressure in your mouth. Pressure falls with height, to 65 kPa in Leh and a third on Everest, so water boils cooler; a pressure cooker’s 82 g whistle holds 1 bar extra and boils at 120 °C. A mercury barometer stands 760 mm tall."
+    },
+    {
+      "title": "Myths and extremes",
+      "text": "Gauges show pressure above the air: a “flat” tyre still holds 1 atm. Suction never pulls, the outside air pushes, so a suction cup fails on Mars. The Mariana Trench presses at about 1,086 bar. And vessels of any shape filled to the same depth have the same pressure at the bottom: Stevin’s hydrostatic paradox."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pressure",
+      "def": "Force divided by the area it acts on, P = F ÷ A."
+    },
+    {
+      "term": "Pascal (Pa)",
+      "def": "The SI unit of pressure: one newton per square metre. 1 bar = 100,000 Pa; 1 atm = 101,325 Pa."
+    },
+    {
+      "term": "Hydrostatic pressure",
+      "def": "Pressure in a still liquid from the weight above: P = ρ g h. About 1 bar per 10 m of water."
+    },
+    {
+      "term": "Atmospheric pressure",
+      "def": "The weight of the air above pressing on everything, about 101 kPa at sea level and less as you climb."
+    },
+    {
+      "term": "Gauge and absolute pressure",
+      "def": "Gauges read the pressure above the surrounding air; absolute pressure adds the air’s 1 atm back."
+    },
+    {
+      "term": "Barometer",
+      "def": "An instrument that measures air pressure, first a column of mercury about 760 mm tall (Torricelli, 1643)."
+    },
+    {
+      "term": "Boiling point",
+      "def": "The temperature where water’s vapour pressure matches the pressure around it: lower up mountains, higher in a pressure cooker."
+    },
+    {
+      "term": "Hydrostatic paradox",
+      "def": "Pressure at the bottom of a liquid depends only on depth, not on the shape or size of the container."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "pressureclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

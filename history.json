@@ -1,0 +1,699 @@
+{
+  "title": "The history of pressure",
+  "tagline": "From a pump that would not lift water past ten metres to a steel ball on the floor of the deepest sea: 400 years of learning that air and water push.",
+  "intro": "For two thousand years people said that nature hates empty space, and that this is what makes pumps suck. In the 1640s Torricelli and Pascal showed the real answer: we live at the bottom of a sea of air that presses on everything. Scientists then learned to pump air out, squeeze it, trap steam and measure all of it with dials and cuffs. Today one idea, force divided by area, explains weather maps, pressure cookers, blood pressure, aircraft cabins and the crushing deep ocean, and its unit carries Pascal's name.",
+  "eras": [
+    {
+      "id": "vacuum",
+      "name": "Does nature hate a vacuum?",
+      "from": 1580,
+      "to": 1640,
+      "color": "#c49bff",
+      "summary": "Stevin works out how water presses on a vessel, and Galileo puzzles over why pumps stop at about ten metres."
+    },
+    {
+      "id": "sea",
+      "name": "The sea of air",
+      "from": 1640,
+      "to": 1690,
+      "color": "#7be08c",
+      "summary": "Torricelli's mercury tube, Pascal's mountain, Guericke's horses, Boyle's pump and law, and Papin's steam digester."
+    },
+    {
+      "id": "gauges",
+      "name": "Dials, cuffs and weather maps",
+      "from": 1840,
+      "to": 1940,
+      "color": "#ffb547",
+      "summary": "Pressure gets measured everywhere: aneroid barometers, Bourdon gauges, weather networks, tyres and blood pressure cuffs."
+    },
+    {
+      "id": "extremes",
+      "name": "High, deep and in the kitchen",
+      "from": 1938,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Pressurised airliners, Indian pressure cookers, dives to the Challenger Deep and a unit named after Pascal."
+    }
+  ],
+  "events": [
+    {
+      "year": 1586,
+      "date": "1586",
+      "era": "vacuum",
+      "art": "vessels",
+      "key": true,
+      "title": "Stevin's hydrostatic paradox",
+      "who": "Simon Stevin",
+      "where": "Leiden, Netherlands",
+      "country": "Netherlands",
+      "text": "In his book on the weight of water, De Beghinselen des Waterwichts, Stevin showed that the push of water on the bottom of a vessel depends only on how deep the water is. The shape of the vessel and the amount of water do not matter. A thin tall tube can press on its base as hard as a wide tank of the same height.",
+      "why": "It was the first clear statement that liquid pressure depends on depth.",
+      "sources": [
+        0,
+        1
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1638,
+      "date": "1638",
+      "era": "vacuum",
+      "art": "tap",
+      "key": false,
+      "title": "The pump that stopped at eighteen cubits",
+      "who": "Galileo Galilei",
+      "where": "Arcetri, Italy (printed in Leiden)",
+      "country": "Italy",
+      "text": "In Two New Sciences, Galileo tells of a workman who said no suction pump could lift water more than eighteen cubits, about ten metres. Galileo believed the old idea from Aristotle that nature abhors a vacuum, and guessed that the water column simply broke under its own weight. His explanation was wrong, but the puzzle was real.",
+      "why": "The ten-metre limit set Galileo's pupils hunting for the true cause.",
+      "sources": [
+        2,
+        3
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1643,
+      "date": "1643 (some say 1644)",
+      "era": "sea",
+      "art": "thermometer",
+      "key": true,
+      "title": "Torricelli's mercury barometer",
+      "who": "Evangelista Torricelli and Vincenzo Viviani",
+      "where": "Florence, Italy",
+      "country": "Italy",
+      "text": "Torricelli filled a glass tube with mercury and turned it upside down in a dish. The mercury dropped until the column was about 76 cm tall, leaving empty space above it. His young colleague Viviani most likely did the actual experiment, under Torricelli's guidance. Torricelli wrote that we live at the bottom of an ocean of air, whose weight holds up the mercury.",
+      "why": "It was the first barometer, and the first vacuum made on purpose.",
+      "sources": [
+        4,
+        5,
+        6
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1648,
+      "date": "19 September 1648",
+      "era": "sea",
+      "art": "mountain",
+      "key": true,
+      "title": "A barometer climbs the Puy de Dôme",
+      "who": "Florin Périer, for Blaise Pascal",
+      "where": "Clermont-Ferrand, France",
+      "country": "France",
+      "text": "Pascal was too ill to climb, so his brother-in-law Florin Périer carried a mercury tube up the Puy de Dôme volcano. At the foot the column stood at 26 inches 3½ lines; at the top it was 23 inches 2 lines, about 3 inches lower. Less air above means less weight pressing down.",
+      "why": "It proved that the air has weight and that air pressure falls as you go up.",
+      "sources": [
+        7,
+        8
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1654,
+      "date": "8 May 1654 · Magdeburg c. 1656",
+      "era": "sea",
+      "art": "horse",
+      "key": true,
+      "title": "Horses against the Magdeburg hemispheres",
+      "who": "Otto von Guericke",
+      "where": "Regensburg and Magdeburg, Germany",
+      "country": "Germany",
+      "text": "Around 1650 Guericke, mayor of Magdeburg, built the first air pump. At Regensburg in 1654 he pumped the air out of two copper half-spheres about 50 cm across, and two teams of horses could not pull them apart. He repeated the show with sixteen horses in Magdeburg around 1656, and in Berlin in 1663. The air outside was pressing the halves together with a force of roughly 20,000 newtons.",
+      "why": "It showed, loudly and in public, how strong ordinary air pressure is.",
+      "sources": [
+        9,
+        10
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1659,
+      "date": "1659 (published 1660)",
+      "era": "sea",
+      "art": "piston",
+      "key": false,
+      "title": "Boyle and Hooke's air pump",
+      "who": "Robert Boyle and Robert Hooke",
+      "where": "Oxford, England",
+      "country": "United Kingdom",
+      "text": "Boyle's assistant Robert Hooke built a better air pump with a glass globe, so people could watch what happened inside. With it Boyle found that sound fades in a vacuum, flames go out and a mercury barometer sinks as the air is removed. He wrote it up in New Experiments Physico-Mechanicall, Touching the Spring of the Air in 1660.",
+      "why": "It turned the vacuum into a place for careful, repeatable experiments.",
+      "sources": [
+        11,
+        12
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1662,
+      "date": "1662",
+      "era": "sea",
+      "art": "spring2",
+      "key": true,
+      "title": "Boyle's law: squeeze a gas, its pressure rises",
+      "who": "Robert Boyle",
+      "where": "Oxford, England",
+      "country": "United Kingdom",
+      "text": "Boyle trapped air in the short end of a J-shaped tube and poured mercury into the long end. Doubling the pressure halved the volume of the air, so pressure times volume stayed the same. Richard Towneley and Henry Power had noticed it too, and Edme Mariotte found it again in France in 1679.",
+      "why": "It was the first law linking the pressure of a gas to its volume.",
+      "sources": [
+        12,
+        13
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1679,
+      "date": "1679",
+      "era": "sea",
+      "art": "geyser",
+      "key": false,
+      "title": "Papin's steam digester",
+      "who": "Denis Papin",
+      "where": "London, England",
+      "country": "France",
+      "text": "Papin showed the Royal Society a sealed iron pot that trapped steam, raising the pressure and the boiling point of the water inside. It could soften bones in a few hours. To stop it bursting he added a safety valve: a weighted lever that lets steam out when the pressure gets too high.",
+      "why": "It was the ancestor of every pressure cooker and every safety valve.",
+      "sources": [
+        14,
+        15
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1844,
+      "date": "1844",
+      "era": "gauges",
+      "art": "compass",
+      "key": false,
+      "title": "The aneroid barometer: no liquid needed",
+      "who": "Lucien Vidi (also spelled Vidie)",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Vidi sealed a thin, springy metal box with most of the air removed. As air pressure rises and falls the box squeezes and swells a tiny amount, and levers turn that into a needle on a dial. It was small, safe and easy to carry, unlike a long glass tube of mercury.",
+      "why": "It put barometers in homes and ships, and later became the aircraft altimeter.",
+      "sources": [
+        5,
+        16
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1849,
+      "date": "1849",
+      "era": "gauges",
+      "art": "speedo",
+      "key": false,
+      "title": "The Bourdon gauge",
+      "who": "Eugène Bourdon",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "Bourdon patented a gauge built around a curled, flattened metal tube. When the pressure inside rises, the tube tries to straighten, and that small movement swings a pointer. Edward Ashcroft bought the American rights in 1852. The same design still sits on boilers, gas cylinders and tyre pumps.",
+      "why": "It made high pressures easy to read at a glance, which made steam power safer.",
+      "sources": [
+        17,
+        18
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1875,
+      "date": "15 January 1875",
+      "era": "gauges",
+      "art": "earth",
+      "key": false,
+      "title": "India Meteorological Department founded",
+      "who": "Henry Francis Blanford",
+      "where": "Calcutta (Kolkata), India",
+      "country": "India",
+      "text": "After a cyclone struck Calcutta in 1864 and monsoon failures caused famines in 1866 and 1873, the government set up one weather service for the whole country. Barometer readings from stations across India could now be collected and compared. Falling pressure in one place helps forecasters spot storms and follow the monsoon.",
+      "why": "Pressure readings became a tool for warning millions of people about cyclones.",
+      "sources": [
+        19
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1888,
+      "date": "1887 · patent 7 December 1888",
+      "era": "gauges",
+      "art": "tyre",
+      "key": false,
+      "title": "Dunlop's air-filled tyre",
+      "who": "John Boyd Dunlop",
+      "where": "Belfast, Ireland",
+      "country": "United Kingdom",
+      "text": "Dunlop, a vet, wrapped an inflated rubber tube around the wheels of his son's tricycle for a smoother ride. His patent later turned out to be invalid, because Robert William Thomson had patented a pneumatic tyre in 1847. Dunlop's tyre still took over bicycles and then cars.",
+      "why": "Air pressure became the thing that holds up bicycles, cars and aircraft on the ground.",
+      "sources": [
+        20
+      ],
+      "box": "sharp"
+    },
+    {
+      "year": 1896,
+      "date": "1896",
+      "era": "gauges",
+      "art": "heart",
+      "key": true,
+      "title": "Riva-Rocci's blood pressure cuff",
+      "who": "Scipione Riva-Rocci",
+      "where": "Turin, Italy",
+      "country": "Italy",
+      "text": "Riva-Rocci wrapped an inflatable cuff around the upper arm, pumped it up and read the pressure on a mercury column. When the cuff pressed harder than the heart's push, the pulse at the wrist vanished. He built it from simple parts, including bicycle inner tube, and refused to patent it.",
+      "why": "Measuring blood pressure became quick, cheap and routine for every doctor.",
+      "sources": [
+        21,
+        22
+      ],
+      "box": "liquids"
+    },
+    {
+      "year": 1905,
+      "date": "8 November 1905",
+      "era": "gauges",
+      "art": "ear",
+      "key": false,
+      "title": "Korotkoff listens to the artery",
+      "who": "Nikolai Korotkoff",
+      "where": "St Petersburg, Russia",
+      "country": "Russia",
+      "text": "Korotkoff, a young army surgeon, put a stethoscope below the cuff and let the pressure out slowly. Tapping sounds start when blood first squeezes through and stop when the artery is fully open. His report was less than a page long.",
+      "why": "It gave us the two numbers, like 120 over 80, that doctors still write down.",
+      "sources": [
+        23,
+        24
+      ],
+      "box": "liquids"
+    },
+    {
+      "year": 1909,
+      "date": "c. 1909 (attributed)",
+      "era": "gauges",
+      "art": "scales",
+      "key": false,
+      "title": "The bar and the millibar",
+      "who": "Vilhelm Bjerknes",
+      "where": "Norway",
+      "country": "Norway",
+      "text": "Weather scientists needed a handy unit for air pressure, and Bjerknes is credited with the bar: 100,000 newtons per square metre, close to the air pressure at sea level. Weather maps were drawn in millibars for most of the twentieth century. Today forecasters use hectopascals, which are exactly the same size.",
+      "why": "It gave air pressure a round number, and it is why tyres are still pumped in bar.",
+      "sources": [
+        25,
+        26
+      ],
+      "box": "idea"
+    },
+    {
+      "year": 1938,
+      "date": "first flight 31 December 1938 · service 1940",
+      "era": "extremes",
+      "art": "plane",
+      "key": false,
+      "title": "The first pressurised airliner in service",
+      "who": "Boeing 307 Stratoliner",
+      "where": "Seattle, USA",
+      "country": "United States",
+      "text": "High up, the air is too thin to breathe comfortably. The Stratoliner pumped extra air into a sealed cabin, so at 16,000 feet the passengers felt as if they were at 8,000 feet. It entered airline service in 1940, flying above much of the bad weather.",
+      "why": "Pressurised cabins made high, smooth, long-distance flying normal.",
+      "sources": [
+        27
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "extremes",
+      "art": "flame",
+      "key": true,
+      "title": "Hawkins pressure cookers made in India",
+      "who": "H. D. Vasudeva, Pressure Cookers and Appliances Ltd",
+      "where": "Mumbai, India",
+      "country": "India",
+      "text": "H. D. Vasudeva started the company at 54, with Rs 20,000, in technical partnership with L. G. Hawkins of England. Its cookers trap steam so water boils at about 120 °C, and dal and rice cook much faster. The firm was renamed Hawkins Cookers Ltd in 1986 and says it has sold more than 140 million cookers and pans.",
+      "why": "Papin's digester became the whistle heard in kitchens across India.",
+      "sources": [
+        28,
+        29
+      ],
+      "box": "air"
+    },
+    {
+      "year": 1960,
+      "date": "23 January 1960",
+      "era": "extremes",
+      "art": "boat",
+      "key": true,
+      "title": "Trieste reaches the Challenger Deep",
+      "who": "Jacques Piccard and Don Walsh",
+      "where": "Mariana Trench, Pacific Ocean",
+      "country": "Switzerland and United States",
+      "text": "The bathyscaphe Trieste sank for nearly five hours to the deepest point in the ocean, measured then at about 10,900 m. Down there the water presses with roughly 1,086 bar, over a thousand times the air pressure at the surface. A window pane cracked on the way down, but the two men spent twenty minutes on the bottom.",
+      "why": "Humans reached the place of greatest pressure in any ocean on Earth.",
+      "sources": [
+        30,
+        31,
+        35
+      ],
+      "box": "limits"
+    },
+    {
+      "year": 1971,
+      "date": "1971",
+      "era": "extremes",
+      "art": "scales",
+      "key": true,
+      "title": "The pascal becomes the SI unit",
+      "who": "14th General Conference on Weights and Measures",
+      "where": "Paris, France",
+      "country": "France",
+      "text": "The world's measurement conference gave the unit of pressure, one newton per square metre, a name of its own: the pascal. One pascal is tiny, about the pressure of a sheet of paper lying flat on a table. Air at sea level presses with about 101,325 pascals.",
+      "why": "P = F ÷ A got one worldwide unit, honouring the man who sent a barometer up a mountain.",
+      "sources": [
+        32,
+        33
+      ],
+      "box": "idea"
+    },
+    {
+      "year": 2012,
+      "date": "26 March 2012",
+      "era": "extremes",
+      "art": "boat",
+      "key": false,
+      "title": "A solo dive to the bottom",
+      "who": "James Cameron, Deepsea Challenger",
+      "where": "Mariana Trench, Pacific Ocean",
+      "country": "Canada",
+      "text": "Film-maker James Cameron piloted Deepsea Challenger alone to about 10,908 m. Its steel pilot sphere had been tested to 114 megapascals before the dive. He spent about three hours on the sea floor, the first crewed visit since Trieste 52 years earlier.",
+      "why": "It showed that careful engineering can make the deepest pressure survivable again.",
+      "sources": [
+        34
+      ],
+      "box": "limits"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Liquid pressure depends only on depth",
+      "value": "1586",
+      "who": "Simon Stevin, Leiden"
+    },
+    {
+      "label": "Mercury barometer and a made vacuum",
+      "value": "1643",
+      "who": "Evangelista Torricelli, Florence"
+    },
+    {
+      "label": "Air pressure shown to fall with height",
+      "value": "1648",
+      "who": "Florin Périer for Blaise Pascal, Puy de Dôme"
+    },
+    {
+      "label": "Air pump",
+      "value": "c. 1650",
+      "who": "Otto von Guericke, Magdeburg"
+    },
+    {
+      "label": "Law linking gas pressure and volume",
+      "value": "1662",
+      "who": "Robert Boyle, Oxford"
+    },
+    {
+      "label": "Safety valve on a pressure vessel",
+      "value": "1679",
+      "who": "Denis Papin, London"
+    },
+    {
+      "label": "Easy-to-use blood pressure cuff",
+      "value": "1896",
+      "who": "Scipione Riva-Rocci, Turin"
+    },
+    {
+      "label": "Crewed dive to the Challenger Deep",
+      "value": "1960",
+      "who": "Jacques Piccard and Don Walsh, Trieste"
+    }
+  ],
+  "people": [
+    {
+      "name": "Simon Stevin",
+      "life": "1548 – 1620",
+      "role": "Engineer and mathematician",
+      "from": "Flanders (now Belgium), worked in the Netherlands",
+      "note": "Showed that water's push on a base depends only on its depth."
+    },
+    {
+      "name": "Evangelista Torricelli",
+      "life": "1608 – 1647",
+      "role": "Physicist and mathematician",
+      "from": "Italy",
+      "note": "Made the first mercury barometer; the torr is named after him."
+    },
+    {
+      "name": "Blaise Pascal",
+      "life": "1623 – 1662",
+      "role": "Mathematician, physicist and writer",
+      "from": "France",
+      "note": "Planned the Puy de Dôme test and studied how liquids pass on pressure; the SI unit bears his name."
+    },
+    {
+      "name": "Otto von Guericke",
+      "life": "1602 – 1686",
+      "role": "Scientist and mayor of Magdeburg",
+      "from": "Germany",
+      "note": "Built the first air pump and pitted horses against air pressure."
+    },
+    {
+      "name": "Robert Boyle",
+      "life": "1627 – 1691",
+      "role": "Natural philosopher and chemist",
+      "from": "Ireland, worked in England",
+      "note": "Found that squeezing a gas raises its pressure in step."
+    },
+    {
+      "name": "Denis Papin",
+      "life": "1647 – c. 1713",
+      "role": "Physicist and inventor",
+      "from": "France, worked in England and Germany",
+      "note": "Invented the steam digester and its safety valve."
+    },
+    {
+      "name": "Scipione Riva-Rocci",
+      "life": "1863 – 1937",
+      "role": "Physician",
+      "from": "Italy",
+      "note": "Made the arm-cuff blood pressure meter and gave it away unpatented."
+    },
+    {
+      "name": "Nikolai Korotkoff",
+      "life": "1874 – 1920",
+      "role": "Surgeon",
+      "from": "Russia",
+      "note": "Found the sounds that let doctors read both blood pressure numbers."
+    },
+    {
+      "name": "H. D. Vasudeva",
+      "life": "c. 1905 – 1993",
+      "role": "Entrepreneur",
+      "from": "India",
+      "note": "Founded the company behind Hawkins pressure cookers in 1959."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The famous story of Pascal's barrel, where a tall thin tube of water bursts a wooden barrel, is almost certainly made up. The physics is right, though: only the height of the water matters.",
+    "Air presses on every square metre of you with about 101,000 newtons, roughly the weight of ten tonnes. You are not crushed because the fluids inside your body push back just as hard.",
+    "Mercury is about 13.6 times denser than water, which is why a mercury barometer is about 76 cm tall while a water barometer would need about 10 m.",
+    "A pressure cooker at about 1 bar above the air outside boils water at roughly 120 °C instead of 100 °C, so food cooks much faster. High in the hills, where air pressure is lower, water boils below 100 °C.",
+    "At the bottom of the Challenger Deep the water presses with over a thousand times the pressure of the air at sea level: about the weight of a tonne on every square centimetre.",
+    "Blood pressure is still written in millimetres of mercury, like 120/80 mmHg, a leftover from Torricelli's tube and Riva-Rocci's mercury column.",
+    "The torr, named after Torricelli, is the pressure that holds up about 1 mm of mercury. Standard air pressure is 760 torr.",
+    "Weather maps join places of equal air pressure with lines called isobars. Tightly packed isobars mean strong winds."
+  ],
+  "sources": [
+    {
+      "title": "Simon Stevin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simon_Stevin"
+    },
+    {
+      "title": "Pascal's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pascal%27s_law"
+    },
+    {
+      "title": "Two New Sciences",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Two_New_Sciences"
+    },
+    {
+      "title": "Air pump (in depth)",
+      "publisher": "Museo Galileo",
+      "url": "https://catalogue.museogalileo.it/indepth/AirPump.html"
+    },
+    {
+      "title": "Evangelista Torricelli",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Evangelista_Torricelli"
+    },
+    {
+      "title": "Barometer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barometer"
+    },
+    {
+      "title": "Evangelista Torricelli: biography",
+      "publisher": "MacTutor History of Mathematics, University of St Andrews",
+      "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Torricelli/"
+    },
+    {
+      "title": "Blaise Pascal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Blaise_Pascal"
+    },
+    {
+      "title": "Puy de Dôme",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Puy_de_D%C3%B4me"
+    },
+    {
+      "title": "Magdeburg hemispheres",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Magdeburg_hemispheres"
+    },
+    {
+      "title": "Otto von Guericke",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Otto_von_Guericke"
+    },
+    {
+      "title": "Robert Boyle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Robert_Boyle"
+    },
+    {
+      "title": "Robert Boyle",
+      "publisher": "Science History Institute",
+      "url": "https://www.sciencehistory.org/education/scientific-biographies/robert-boyle/"
+    },
+    {
+      "title": "Boyle's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boyle%27s_law"
+    },
+    {
+      "title": "Denis Papin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Denis_Papin"
+    },
+    {
+      "title": "Pressure cooking",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pressure_cooking"
+    },
+    {
+      "title": "Lucien Vidi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lucien_Vidi"
+    },
+    {
+      "title": "Pressure measurement",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pressure_measurement"
+    },
+    {
+      "title": "Eugène Bourdon",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eug%C3%A8ne_Bourdon"
+    },
+    {
+      "title": "India Meteorological Department",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/India_Meteorological_Department"
+    },
+    {
+      "title": "John Boyd Dunlop",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Boyd_Dunlop"
+    },
+    {
+      "title": "Scipione Riva-Rocci",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Scipione_Riva-Rocci"
+    },
+    {
+      "title": "Sphygmomanometer",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sphygmomanometer"
+    },
+    {
+      "title": "Korotkoff sounds",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Korotkoff_sounds"
+    },
+    {
+      "title": "A centenary of auscultatory blood pressure measurement: a tribute to Nikolai Korotkoff",
+      "publisher": "Kidney and Blood Pressure Research (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16340219/"
+    },
+    {
+      "title": "Bar (unit)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bar_(unit)"
+    },
+    {
+      "title": "Vilhelm Bjerknes",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vilhelm_Bjerknes"
+    },
+    {
+      "title": "Boeing 307 Stratoliner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boeing_307_Stratoliner"
+    },
+    {
+      "title": "Hawkins Cookers",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hawkins_Cookers"
+    },
+    {
+      "title": "About us",
+      "publisher": "Hawkins Cookers Limited",
+      "url": "https://www.hawkinscookers.com/AboutUs.aspx"
+    },
+    {
+      "title": "Trieste (bathyscaphe)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Trieste_(bathyscaphe)"
+    },
+    {
+      "title": "Challenger Deep",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Challenger_Deep"
+    },
+    {
+      "title": "Pascal (unit)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+    },
+    {
+      "title": "14th meeting of the CGPM (1971): pascal and siemens",
+      "publisher": "BIPM",
+      "url": "https://www.bipm.org/en/committees/cg/cgpm/14-1971"
+    },
+    {
+      "title": "Deepsea Challenger",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Deepsea_Challenger"
+    },
+    {
+      "title": "Mariana Trench",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mariana_Trench"
+    }
+  ]
+}
